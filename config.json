@@ -1,0 +1,9 @@
+{
+    "chrome_path" : "",
+    "download_driver_if_needed" : true,
+    "hostname":  "http://localhost:3000",
+    "loglevel": 0,
+    "confirmation_server_port": 54545,
+    "keep_browser_open": false,
+    "sleep_threshold": 0.2
+}
