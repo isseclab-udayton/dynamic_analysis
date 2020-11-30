@@ -19,7 +19,6 @@ Just use the -h or --help option to see
 $ python main.py -h
 usage: main.py [-h] [-i INPUT | -u URL | -t]
 
-Sitemap Generator
 
 optional arguments:
   -h, --help            show this help message and exit
